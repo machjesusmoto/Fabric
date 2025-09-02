@@ -351,5 +351,10 @@ web/static/*.png
 .tmp/
 tmp/
 
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
 # Ignore .claude/
 .claude/
